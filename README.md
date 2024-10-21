@@ -5,6 +5,8 @@
 - 📫 How to reach me: via email (posted on bio)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've studied "Technician in Video Disc Jockey and Sound" (VDJS) before starting ASIR.
+- 💻 Software I've worked with and use: Visual Studio Code, Proxmox VE, WordPress, cPanel, MySQL / MariaDB, Notion, Figma, Premiere Pro, After Effects, Media Encoder, Photoshop, Photoshop Lightroom
+  
 <!---
 AlexM2Media/AlexM2Media is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
